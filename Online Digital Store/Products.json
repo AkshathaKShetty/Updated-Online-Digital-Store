@@ -1,0 +1,67 @@
+[
+  {
+    "name": "OnePlus 5",
+    "image": "../Images/OnePlus.jpg",
+    "model": "OnePlus 5",
+    "cost": 37999,
+    "capacity": "8GB RAM",
+    "modelnumber": "5",
+    "screensize": "5.5-inch",
+    "color": "Black",
+    "brand": "OnePlus",
+    "processor": "Snapdragon 835 processor",
+    "rating": 5
+  },
+  {
+    "name": "Samsung Galaxy Note 8",
+    "image": "../Images/Samsung.jpg",
+    "model":"Galaxy Note 8",
+    "cost": 60000,
+    "capacity":"6GB RAM",
+    "model number": "8",
+    "screens size": "6.3-inch",
+    "color": "Black",
+    "brand": "Samsung",
+    "processor": "Samsung Exynos 9 Octa 8895 processor",
+    "rating": 4
+  },
+  {
+    "name": "Apple iPhone 8 Plus",
+    "image": "../Images/iPhone.jpg",
+    "model":"iPhone 8 Plus",
+    "cost": 67990,
+    "capacity":"2GB RAM",
+    "model number": "5",
+    "screens size": "5.5-inch",
+    "color": "Black",
+    "brand": "iPhone",
+    "processor": "Apple A11 Bionic hexa core processor",
+    "rating":  5
+  },
+  {
+    "name": "Honor View 10",
+    "image": "../Images/honor.jpeg",
+    "model":"View 10",
+    "cost": 29000,
+    "capacity":"6GB RAM",
+    "model number": "5",
+    "screens size": "5.99-inch",
+    "color": "Black",
+    "brand": "Honor",
+    "processor": "Huawei Kirin 970 Artificial Intelligence (AI) octa core processor",
+    "rating": 1
+  },
+  {
+    "name": "RedMI Xiaomi Mi A1",
+    "image": "../Images/Redmi.jpg",
+    "model":"Xiaomi Mi A1",
+    "cost": 60000,
+    "capacity":"4 GB RAM",
+    "model number": "A1",
+    "screens size": "5.5-inch",
+    "color": "Black",
+    "brand": "Redmi",
+    "processor": "Qualcomm Snapdragon 625 64 bit Octa Core 2GHz Processor",
+    "rating": 4
+  }
+]

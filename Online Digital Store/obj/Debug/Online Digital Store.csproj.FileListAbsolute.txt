@@ -1,0 +1,33 @@
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\ApplicationInsights.config
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\csc.exe
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\System.Collections.Immutable.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\System.Reflection.Metadata.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\vbc.exe
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\VBCSCompiler.exe
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\roslyn\VBCSCompiler.exe.config
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Online Digital Store.dll.config
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Online Digital Store.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Online Digital Store.pdb
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.DependencyCollector.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.Web.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.WindowsServer.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.ApplicationInsights.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.DependencyCollector.xml
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.Web.xml
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.AI.WindowsServer.xml
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.ApplicationInsights.xml
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\obj\Debug\Online Digital Store.dll
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\obj\Debug\Online Digital Store.pdb
+D:\Akshatha\Online Digital Store\Online Digital Store\Online Digital Store\obj\Debug\Online Digital Store.csprojResolveAssemblyReference.cache
